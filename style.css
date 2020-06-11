@@ -1,0 +1,17 @@
+.container{
+    
+    text-align: center;
+    display: block;
+    
+}
+
+button{
+    background-color: #069;
+    color: white;
+    font-size: 32px;
+    padding: 8px 20px;
+    cursor: pointer;
+    border: none; 
+    text-align: center; 
+    margin-top: 20px;  
+}
